@@ -82,7 +82,7 @@ const aIMG = [
     "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa",
   ],
   [
-    "LIGHTNING LOCAL",
+    "LIGHTNING LOCAL 2",
     "https://www.blitzortung.org/en/Images/image_b_ny.png",
   ],
   ["I-75 Exit 25", "mcleansfs4.us-east-1.skyvdn.com"],
