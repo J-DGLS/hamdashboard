@@ -86,7 +86,8 @@ const aIMG = [
     "https://www.blitzortung.org/en/Images/image_b_ny.png",
   ],
   [
-    "I-75 Exit 25", "mcleansfs4.us-east-1.skyvdn.com",
+    "I-75 Exit 25a", 
+    "https://smartway.tn.gov/allcams/camera/1352",
   ],
   [
     "SW BROADCAST",
