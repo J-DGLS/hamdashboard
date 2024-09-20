@@ -87,7 +87,7 @@ const aIMG = [
   ],
   [
     "I-75 Exit 25a", 
-    "https://smartway.tn.gov/allcams/camera/1352",
+    "https://mcleansfs3.us-east-1.skyvdn.com/rtplive/R2_068/playlist.m3u8",
   ],
   [
     "SW BROADCAST",
