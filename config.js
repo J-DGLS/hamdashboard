@@ -87,7 +87,7 @@ const aIMG = [
   ],
   [
     "I-75 Exit 25b", 
-    "https://mcleansfs3.us-east-1.skyvdn.com/rtplive/R2_068/playlist.m3u8",
+    "rtsp://mcleansfs4.us-east-1.skyvdn.com:554/rtplive/R2_080",
   ],
   [
     "SW BROADCAST",
