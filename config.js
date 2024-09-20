@@ -86,7 +86,7 @@ const aIMG = [
     "https://www.blitzortung.org/en/Images/image_b_ny.png",
   ],
   [
-    "I-75 Exit 25a", 
+    "I-75 Exit 25b", 
     "https://mcleansfs3.us-east-1.skyvdn.com/rtplive/R2_068/playlist.m3u8",
   ],
   [
